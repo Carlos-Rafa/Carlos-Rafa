@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu sou o Carlos Rafael! 👋
 
-<!--
-**Carlos-Rafa/Carlos-Rafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e **Desenvolvedor Backend Java Júnior**. Tenho facilidade com lógica de programação, resolução de problemas e construção de APIs RESTful seguras e eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack & Ferramentas:
+- Linguagens: Java (17/21), Python
+- Frameworks & Arquitetura: Spring Boot, Spring Data JPA, APIs REST, POO, SOLID, Clean Code, Testes Unitários (JUnit)
+- Banco de Dados: MySQL, PostgreSQL, Oracle, SQLite
+- Ferramentas: Git, GitHub, Maven, Postman, Linux (Ubuntu)
+
+---
+
+📫 Onde me encontrar:
+* 💼 [LinkedIn](https://www.linkedin.com/in/carlos-rafael-silva-lima-sena-68364b24b)
+* ✉️ **E-mail:** rafaelsenacarlos13@gmail.com
